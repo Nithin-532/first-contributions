@@ -232,6 +232,7 @@
 - [Mahmoud Ibrahiam](https://github.com/remahmoud)
 - [Shahab Valizade](https://github.com/shahabvalizade)
 - [Harshal](https://github.com/sync-ster)
+- [Nithin](https://github.com/Nithin-532)
 - [Ishika Jaiswal](https://github.com/Ishika-Jaiswal)
 - [Jeffrey Li](https://github.com/JeffLi117)
 - [Bhanu Singh](https://github.com/bhanusingh008)
